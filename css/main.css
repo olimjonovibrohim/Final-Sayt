@@ -1,0 +1,300 @@
+body{
+    background-color: white;
+}
+.tik-tok{
+    margin-bottom: -60px;
+}
+.rasm{
+    position: absolute;
+    margin-left: 503px;
+    margin-top: -37px;
+}
+.juy{
+    height: 39px;
+}
+.hammsi-bir{
+    padding: 0;
+    width: 750px;
+    height: 490px;
+}
+.video{
+    width: 930px;
+    height: 500px;
+}
+.ung{
+    margin-left: -15px;
+}
+.b-qator{
+    width: 120%;
+    margin-top: 0;
+    margin-left: -15px;
+}
+.i-qator{
+    margin-top: -20px;
+    margin-left: -15px;
+}
+.otziv{
+    margin-left: -15px;
+}
+.nasiya{
+    width: 150px;
+    height: 22px;
+    background-color: rgba(255, 255, 25,0.9);
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.ich{
+    margin-left: 8px;
+}
+.uchx{
+    position: absolute;
+    color: grey;
+    margin-left: -15px;
+    margin-top: -25px;
+}
+.narx{
+    margin-left: -15px;
+    margin-top: -5px;
+}
+.ciz{
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background-color: grey;
+    transform: rotate(-5deg);
+    margin-top: -40px;
+    margin-left: -16px;
+}
+.has{
+    margin-top: 100px;
+}
+.dfgh{
+    height: 38px;
+    color: white;
+    background-color: black;
+}
+.ellik{
+    border-radius: 50%;
+}
+.res{
+    width: 500px;
+    height: 120px;
+}
+.bth{
+    width: 145px;
+    height: 20px;
+    margin-left: 10px;
+}
+.ghj{
+    float: left;
+}
+.ghj1{
+    margin-top: 2px;
+    width: 10px;
+}
+.fight{
+    width: 145px;
+    height: 40px;
+    margin-left: 10px;
+}
+.jik{
+    width: 125px;
+    height: 30px;
+    margin-left: -25px;
+}
+.kick{
+    width: 420px;
+    margin-left: 30px;
+}
+.oppo{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -210px;
+}
+.hah{
+    height: 700px;
+}
+.hdr{
+    text-align: center;
+}
+.kucha{
+    width: 130px;
+    position: absolute;
+    margin-top: -120px;
+    margin-left: 350px;
+}
+.bujum{
+    position: absolute;
+}
+.komn1{
+    margin-top: 60px;
+}
+.ins{
+    border-radius: 3px;
+    margin-right: 5px;
+}
+.fae{
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.you{
+    margin-right: 5px;
+}
+.kupcha1{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    margin-left: 270px;
+}
+.kupcha2{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    margin-left: 19px;
+}
+.kupcha3{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    position: absolute;
+    margin-left: 806px;
+    margin-top: -94px;
+}
+.kupchaa1{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    width: 150px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.kupchaa2{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    width: 150px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -100px;
+}
+.kupchaa3{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    width: 150px;
+    position: absolute;
+    margin-left: -350px;
+    margin-top: -50px;
+}
+.hgb{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.bottik{
+    height: 300px;
+}
+.fgi{
+    margin-top: 30px;
+}
+.chrtu{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    border-radius: 3px;
+}
+.majk{
+    border-radius: 15px;
+}
+.qora{
+    background-color: black;
+    color: white;
+}
+.choq{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.textr{
+    text-align: center;
+}
+.kicho{
+    position: absolute;
+}
+.fixed-ok{
+    transform: scale(1.5);
+    position: fixed;
+    margin-top: -440px;
+    margin-left: -440px;
+}
+.btn-ok{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+.dumaloq{
+    margin-top: -13px;
+    margin-left: -9px;
+    border-radius: 50%;
+}
+.fon-lok{
+    background: url(../rasm/background-imageoo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.mt-5ok{
+    margin-top: 170px;
+}
+.mt-5ok1{
+    margin-top: 100px;
+}
+.hewid{
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid red;
+    margin-top: 3px;
+    margin-left: 35px;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    line-height: 15px;
+}
+.ghost{
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 120px;
+    border-radius: 20px;
+}
+.cow-mink{
+    text-align: right;
+}
+.bonkf{
+    text-align: center;
+}
+.fon-lok1{
+    background: url(../rasm/background-fon.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+.tik-fon{
+    background: url(../rasm/tikfon.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+.bg-dbik{
+    background-color: black;
+    color: white;
+}

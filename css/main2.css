@@ -1,0 +1,120 @@
+body{
+    background-color: white;
+}
+.tik-tok{
+    position:fixed;
+    margin-top: -100px;
+}
+.rasm{
+    position: absolute;
+    margin-left: 503px;
+    margin-top: -37px;
+}
+.juy{
+    height: 39px;
+}
+.ung{
+    margin-left: -15px;
+}
+.b-qator{
+    width: 120%;
+    margin-top: 0;
+    margin-left: -15px;
+}
+.i-qator{
+    margin-top: -20px;
+    margin-left: -15px;
+}
+.otziv{
+    margin-left: -15px;
+}
+.nasiya{
+    width: 150px;
+    height: 22px;
+    background-color: rgba(255, 255, 25,0.9);
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.ich{
+    margin-left: 8px;
+}
+.uchx{
+    position: absolute;
+    color: grey;
+    margin-left: -15px;
+    margin-top: -25px;
+}
+.narx{
+    margin-left: -15px;
+    margin-top: -5px;
+}
+.ciz{
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background-color: grey;
+    transform: rotate(-5deg);
+    margin-top: -40px;
+    margin-left: -16px;
+}
+.has{
+    margin-top: 100px;
+}
+.dfgh{
+    height: 38px;
+    color: white;
+    background-color: black;
+}
+.ellik{
+    border-radius: 50%;
+}
+.res{
+    width: 500px;
+    height: 120px;
+}
+.bth{
+    width: 145px;
+    height: 20px;
+    margin-left: 10px;
+}
+.ghj{
+    float: left;
+}
+.ghj1{
+    margin-top: 2px;
+    width: 10px;
+}
+.fight{
+    width: 145px;
+    height: 40px;
+    margin-left: 10px;
+}
+.jik{
+    width: 125px;
+    height: 30px;
+    margin-left: -25px;
+}
+.kick{
+    width: 420px;
+    margin-left: 30px;
+}
+.oppo{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -210px;
+}
+.hah{
+    height: 700px;
+}
+.hdr{
+    text-align: center;
+}
+.kucha{
+    width: 130px;
+    position: absolute;
+    margin-top: -120px;
+    margin-left: 350px;
+}
+.pasga{
+    margin-top: 100px;
+}

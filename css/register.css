@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: black;
+}
+.row{
+    background-color: black;
+}
+.chet-q{
+    margin-top: 30px;
+    border-radius: 50px;
+    border: 3px solid blue;
+}
+.qora{
+    background-color: black;
+    color: white;
+}
+.qoraa{
+    background-color: black;
+    color: white;
+}
+.oq{
+    background-color: white;
+}
+.oqt{
+    color: blue;
+}
+.text-ght{
+    color: black;
+}
